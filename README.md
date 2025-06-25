@@ -1,4 +1,4 @@
-# [ESRGAN](https://github.com/xinntao/ESRGAN) model traied using [neosr](https://github.com/neosr-project/neosr) framework
+# [ESRGAN](https://github.com/xinntao/ESRGAN) model trained using [neosr](https://github.com/neosr-project/neosr) framework
 
 This repo contains training parameters as well as trained model in pth file.
 
